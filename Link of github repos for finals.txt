@@ -1,0 +1,2 @@
+https://github.com/doel0426/intprog-Frontend.git
+https://github.com/doel0426/intprog-backend.git
